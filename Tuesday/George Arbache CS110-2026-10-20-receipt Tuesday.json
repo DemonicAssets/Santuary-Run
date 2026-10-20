@@ -1,0 +1,231 @@
+{
+  "schema": "sanctuary-run-receipt/2",
+  "id": "0ca626d4-7112-4966-a025-5109489d51a9:eef083a8-75b2-4204-ab94-b47f2db1cef1:2026-10-20",
+  "course": "CS110",
+  "event": "The Crossing 9",
+  "eventCode": "C0AF9F",
+  "day": "2026-10-20",
+  "timeZone": "America/Los_Angeles",
+  "player": "George Arbache",
+  "playerId": "eef083a8-75b2-4204-ab94-b47f2db1cef1",
+  "team": "Human Systems Check",
+  "participation": "team",
+  "teamCrest": 3,
+  "prizeEligible": true,
+  "prizeRule": "Team prizes require two or more members when the round starts. Solo travelers earn activity credit only.",
+  "status": "daily-target-met",
+  "roundResults": [
+    {
+      "round": 1,
+      "prizePlace": null,
+      "prizeEligible": false
+    },
+    {
+      "round": 2,
+      "prizePlace": 3,
+      "prizeEligible": true
+    }
+  ],
+  "points": 12,
+  "dailyTarget": 10,
+  "additionalPoints": 2,
+  "awardIds": [
+    "e0129124-2f2c-41bc-a901-466face84221",
+    "069b3e03-52ae-4220-aeba-928fcfe27b62",
+    "3c59547f-862d-42d5-9d8f-4c3de25fc4b8",
+    "2eee3816-afcf-47dc-ae0d-1906127dc789",
+    "5ee9ba75-b485-4a1e-bf13-19292eb707d2",
+    "5d712dc8-7ced-464c-b6b2-eca7685df1e6",
+    "52bc9cff-1871-4f9d-bd7c-f427274e3378",
+    "97ebc373-4838-4200-98c2-37596a5ecb12",
+    "35c469af-f447-4e21-8fe6-a71096de77d5",
+    "6919e23c-42c9-4cf8-bd12-8a5e10c6d656",
+    "98b9ab71-1120-4cd5-a587-1e007e1c4f5f",
+    "478a11d6-0178-41c4-8e44-9f2d9a8d2a83",
+    "e2175f29-7062-44ad-b290-4a3cb31577c0",
+    "355eff24-f1dc-4717-92b2-117955b0f800",
+    "427b2fb8-efce-4579-9fce-b4ef70525fc3",
+    "c4ffdbd3-58d4-494d-9462-7ccc5d43017f",
+    "b54bd2ab-7320-4fa0-acd0-291075f96511",
+    "573c1aa4-747f-462e-9873-498c7e0f6942",
+    "9f879330-5e34-4cfc-8d14-0e1b27cf47d3",
+    "40c5e85a-9778-47c0-aefb-9f7454070bda",
+    "bc5700e4-b5cc-40d0-ab5c-f09f670a380e",
+    "c747600a-8716-421f-bd0a-7dffb1c51a3a",
+    "552e2dfc-9b1b-4de9-b9b4-3ae277449b60",
+    "e08035f7-712c-4c3f-906b-37e46d15fcaf"
+  ],
+  "encounters": [
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:50:29.841Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:50:52.977Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:51:28.196Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:51:42.387Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:52:03.987Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:52:18.510Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:52:36.671Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:53:03.769Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:53:21.093Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:53:56.848Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:54:12.811Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:54:25.255Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:54:38.065Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:54:57.250Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:55:12.578Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:55:31.185Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:55:50.728Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:56:04.922Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:56:15.700Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:56:30.034Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:56:40.749Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:56:52.099Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:57:03.768Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:57:16.900Z"
+    }
+  ],
+  "issuedAt": "2026-10-20T21:11:25.842Z",
+  "records": "Verified activity record; save this receipt in your course GitHub repository and submit the repository link through Canvas.",
+  "signature": "0a4937ac8cdb394e7696c557fc493360b18eed2ea7ff34fdf8e5d01addeacc0c"
+}
