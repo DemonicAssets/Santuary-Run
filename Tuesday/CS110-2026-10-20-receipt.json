@@ -1,0 +1,247 @@
+{
+  "schema": "sanctuary-run-receipt/2",
+  "id": "0ca626d4-7112-4966-a025-5109489d51a9:09b6284f-247e-4ac1-9c0d-53610e097624:2026-10-20",
+  "course": "CS110",
+  "event": "The Crossing 9",
+  "eventCode": "C0AF9F",
+  "day": "2026-10-20",
+  "timeZone": "America/Los_Angeles",
+  "player": "OhioRizz(Andy)",
+  "playerId": "09b6284f-247e-4ac1-9c0d-53610e097624",
+  "team": "Human Systems Check",
+  "participation": "team",
+  "teamCrest": 3,
+  "prizeEligible": true,
+  "prizeRule": "Team prizes require two or more members when the round starts. Solo travelers earn activity credit only.",
+  "status": "daily-target-met",
+  "roundResults": [
+    {
+      "round": 1,
+      "prizePlace": null,
+      "prizeEligible": false
+    },
+    {
+      "round": 2,
+      "prizePlace": 3,
+      "prizeEligible": true
+    }
+  ],
+  "points": 15,
+  "dailyTarget": 10,
+  "additionalPoints": 5,
+  "awardIds": [
+    "b572949b-58ff-4e3c-85db-689c136a2b87",
+    "b7466b16-bfd6-4e97-b92e-40abbe69d0c8",
+    "72b23fd9-db5e-4e80-947f-fee8e61884ea",
+    "62e9e54e-a623-43b1-82a0-6af2a0936145",
+    "2c35704b-99bb-48dc-9f92-e1837824ba0b",
+    "1201a686-ae51-480f-802b-d4df59754761",
+    "48199460-0335-4baa-b8dd-613cbd73bed8",
+    "3eeea80a-1745-4fd4-9004-cb8ab7152cd4",
+    "c2c1cf63-3b03-4790-a45a-a39a92982022",
+    "43e8b036-2ce8-4785-af5b-a39c3fda156b",
+    "4fce278e-1ab5-4f7c-a08d-13fe7c5ac4da",
+    "0e02eadb-5272-40ed-93e0-63975a41495f",
+    "7e19633a-1d61-4781-b253-459bcb6bb768",
+    "ab2f3d36-31c0-42d8-b23f-233e03632506",
+    "6c3ec7a1-1097-4fc2-af67-c89d62101ac2",
+    "52cbedc2-e14c-45e4-9649-f299ae114635",
+    "b97b53f1-abe4-4356-b167-7d3bdb0ca043",
+    "1572514a-878d-4fd1-87e4-e2aece4efe85",
+    "35b70da4-33b3-49d8-b69c-883ba89d1206",
+    "df3b5777-fe61-4e3d-8da2-933f208a5839",
+    "151d0109-3fbe-4ba5-bbd3-1e059032bfbd",
+    "d78eb3a0-87dd-4be2-94a4-7d6b40fb4950",
+    "eb3c9d58-a394-45ae-94d5-13bcae3d1571",
+    "b376ef74-6676-46b8-8e19-02c210ca6621",
+    "91017583-08c2-40b4-b95c-88cd45507f1d",
+    "3afc39b9-b662-4571-a42c-6c2900db3239"
+  ],
+  "encounters": [
+    {
+      "title": "The Sealed Gate",
+      "subject": "wpf",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T20:55:39.756Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:55:59.738Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:56:14.414Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:56:22.165Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:56:39.552Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:56:52.117Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:56:57.476Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:57:04.380Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:57:13.511Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:57:23.019Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:57:34.701Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:58:31.017Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:58:47.536Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:58:55.196Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:59:00.551Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:59:08.293Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:59:15.667Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:59:22.319Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:59:27.744Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:59:33.959Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:59:39.451Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:59:45.252Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:59:50.597Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T20:59:57.450Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:00:09.434Z"
+    },
+    {
+      "title": "The Trader's Ledger",
+      "subject": "csharp",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:09:08.599Z"
+    }
+  ],
+  "issuedAt": "2026-10-20T21:12:14.434Z",
+  "records": "Verified activity record; save this receipt in your course GitHub repository and submit the repository link through Canvas.",
+  "signature": "ce3be81dae7475ad286d4d90a1b876868209fdd3cca5b2e2babf935af5e39bab"
+}
