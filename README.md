@@ -6,3 +6,7 @@ Nick
 Leah
 Caleb
 Chris
+George 
+Rueben
+Professor Stalbert
+Professor/TA Andrew
